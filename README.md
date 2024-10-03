@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hiii~ I'm Fylart!! (つ✧ω✧)つ</h1>
-<h3 align="center">Also known as Crispatrick. Your digital artist, programmer, and hawdcowe gamer ヾ(≧▽≦*)o~✨</h3>
+<h3 align="center">Your digital artist, programmer, and hawdcowe gamer ヾ(≧▽≦*)o~✨</h3>
 
 ## Introduction
 
-I live in the philippines and I first started drawing anime here and there with no passion and zero skills until i slowly developed it then started gaining interest on learning how to make games!! 
+I first started drawing anime here and there with no passion and zero skills until i slowly developed it then started gaining interest on learning how to make games!! 
 
 ## Skills
 <ol>
