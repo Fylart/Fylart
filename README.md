@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Introduction
 
-I first started drawing anime here and there with no passion and zero skills until i slowly developed it then started gaining interest on learning how to make games!! 
+I first started drawing anime here and there with no passion and zero skills, until I slowly developed it. I then started gaining interest on learning how to make games!! 
 
 ## Skills
 <ol>
